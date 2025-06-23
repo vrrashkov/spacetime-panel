@@ -1,6 +1,6 @@
 # Spacetime Panel
 
-A web-based admin panel for managing SpacetimeDB applications.
+A modern web-based admin interface for managing SpacetimeDB applications. It provides real-time database management with an intuitive UI for viewing tables, calling reducers, monitoring events, and managing your SpacetimeDB modules.
 
 ## Example
 
