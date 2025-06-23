@@ -2,6 +2,12 @@
 
 A web-based admin panel for managing SpacetimeDB applications.
 
+## Example
+
+
+https://github.com/user-attachments/assets/0d42dcdb-c6f5-49ef-9709-0bcf616b675c
+
+
 ## Setup Instructions
 
 ### Clone the Repository
